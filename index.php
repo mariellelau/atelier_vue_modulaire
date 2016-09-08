@@ -10,5 +10,5 @@
 			</div>
 		</div>
 	</div>
-
+hello
 <?php include ('include/footer.php') ?>
